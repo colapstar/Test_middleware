@@ -3,8 +3,8 @@ package users
 import (
 	"database/sql"
 	"errors"
-	"middleware/example/internal/helpers"
-	"middleware/example/internal/models"
+	"middleware/example2/internal/helpers"
+	"middleware/example2/internal/models"
 
 	"net/http"
 

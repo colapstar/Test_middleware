@@ -1,9 +1,9 @@
 package main
 
 import (
-	"middleware/example/internal/controllers/users"
-	"middleware/example/internal/helpers"
-	_ "middleware/example/internal/models"
+	"middleware/example2/internal/controllers/users"
+	"middleware/example2/internal/helpers"
+	_ "middleware/example2/internal/models"
 	"net/http"
 
 	"github.com/go-chi/chi/v5"

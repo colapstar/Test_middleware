@@ -1,8 +1,8 @@
 package users
 
 import (
-	"middleware/example/internal/models"
-	repository "middleware/example/internal/repositories/users"
+	"middleware/example2/internal/models"
+	repository "middleware/example2/internal/repositories/users"
 
 	"github.com/gofrs/uuid"
 	"github.com/sirupsen/logrus"

@@ -3,9 +3,9 @@ package users
 import (
 	"encoding/json"
 	"io"
-	"middleware/example/internal/helpers"
-	"middleware/example/internal/models"
-	users "middleware/example/internal/services/users"
+	"middleware/example2/internal/helpers"
+	"middleware/example2/internal/models"
+	users "middleware/example2/internal/services/users"
 	"net/http"
 
 	"github.com/go-chi/chi/v5"
