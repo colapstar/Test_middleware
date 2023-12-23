@@ -1,9 +1,9 @@
 package ratings
 
 import (
-	"middleware/example/internal/helpers"
-	"middleware/example/internal/models"
-	"middleware/example/internal/services/ratings"
+	"middleware/example3/internal/helpers"
+	"middleware/example3/internal/models"
+	"middleware/example3/internal/services/ratings"
 	"net/http"
 
 	"github.com/sirupsen/logrus"

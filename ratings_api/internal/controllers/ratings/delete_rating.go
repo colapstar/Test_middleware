@@ -1,9 +1,9 @@
 package ratings
 
 import (
-	"middleware/example/internal/helpers"
-	"middleware/example/internal/models"
-	"middleware/example/internal/repositories/ratings"
+	"middleware/example3/internal/helpers"
+	"middleware/example3/internal/models"
+	"middleware/example3/internal/repositories/ratings"
 	"net/http"
 
 	"github.com/gofrs/uuid"

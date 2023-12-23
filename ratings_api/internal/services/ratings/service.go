@@ -3,8 +3,8 @@ package ratings
 import (
 	"database/sql"
 	"errors"
-	"middleware/example/internal/models"
-	repository "middleware/example/internal/repositories/ratings"
+	"middleware/example3/internal/models"
+	repository "middleware/example3/internal/repositories/ratings"
 	"net/http"
 
 	"github.com/gofrs/uuid"

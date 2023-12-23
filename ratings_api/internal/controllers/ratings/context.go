@@ -3,8 +3,8 @@ package ratings
 import (
 	"context"
 	"fmt"
-	"middleware/example/internal/helpers"
-	"middleware/example/internal/models"
+	"middleware/example3/internal/helpers"
+	"middleware/example3/internal/models"
 	"net/http"
 
 	"github.com/go-chi/chi"

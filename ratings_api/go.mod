@@ -1,4 +1,4 @@
-module middleware/example
+module middleware/example3
 
 go 1.19
 
