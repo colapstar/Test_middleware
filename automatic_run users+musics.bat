@@ -1,6 +1,9 @@
 @echo off
 SET OPENDIR=%cd%
 
+:: Launch API Users
+start "API Users" cmd /k "cd users_api && go run ./cmd/main.go"
+
 :: Launch API Musics
 start "API Musics" cmd /k "cd musics_api && go run ./cmd/main.go"
 
